@@ -1,4 +1,4 @@
-![I'm a passionate and driven web development enthusiast on a mission to elevate my skills and gain valuable experience in the tech world.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a passionate and driven web development enthusiast on a mission to elevate my skills and gain valuable experience in the tech world.][(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://github.com/vince-melgar/vince-melgar/blob/main/github-header-image.png)
 
 ### Hi there 👋, my name is Vince Melgar (Front End Developer)
 #### I'm a passionate and driven web development enthusiast on a mission to elevate my skills and gain valuable experience in the tech world.
